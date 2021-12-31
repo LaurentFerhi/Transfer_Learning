@@ -1,2 +1,2 @@
 # Transfer_Learning
-Transfer learning with pytorch (one by using the Alexnet convolutional layer and a XGBoost classifier -> saves a lot of time and computation power !)
+Transfer learning with pytorch on Alexnet using XGBosst as classifier (performed on small galaxy pictures dataset for demonstration purpose).
